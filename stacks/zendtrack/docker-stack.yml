@@ -1,6 +1,6 @@
 version: '3.3'
 services:
-  zn057a:
+  zendtrack:
     image: chainsaw/zendtrack:latest
     command: zend
     environment:
